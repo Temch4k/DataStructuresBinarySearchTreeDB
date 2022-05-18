@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/BSTree.h
+iostream
+-
+Node.h
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/Node.h
+vector
+-
+
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/BSTree.hpp
+BSTree.h
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/BSTree.h
+
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/Node.h
+iostream
+-
+string
+-
+
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/functions.cpp
+iostream
+-
+fstream
+-
+vector
+-
+sstream
+-
+string
+-
+algorithm
+-
+functions.h
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/functions.h
+BSTree.h
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/BSTree.h
+Node.h
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/Node.h
+
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/functions.h
+fstream
+-
+BSTree.h
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/BSTree.h
+vector
+-
+string
+-
+functions.h
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/functions.h
+BSTree.hpp
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/BSTree.hpp
+

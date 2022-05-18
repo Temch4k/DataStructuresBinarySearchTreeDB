@@ -1,0 +1,3 @@
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/cmake-build-debug/CMakeFiles/DataBase_Ver1.dir
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/angry/CLionProjects/DataBase_Ver1 - Copy - Copy - Copy - Copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
